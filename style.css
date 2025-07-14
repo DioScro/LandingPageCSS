@@ -1,0 +1,62 @@
+body {
+    font-family: Roboto;
+    margin: 0px;
+    padding: 0px;
+} 
+
+.header,
+.footer,
+.hero {
+    background-color: #1F2937;
+}
+
+.headerlogo {
+    font-size: 24px;
+    color: #F9FAF8
+}
+
+.main {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.secondary,
+.headerlinks {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.headerlinks a {
+    text-decoration: none;
+    color: white;
+    
+}
+
+button,
+.action {
+    background-color: #3882F6;
+    color: white;
+}
+
+.informationheader {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.quotemain {
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color: #1F2937
+
+}
+
+.footer {
+    color: white;
+}
